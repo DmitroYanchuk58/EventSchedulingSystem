@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventDatabase_DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aaa01102cf25b9cca21d75b72f49a3d6c3b5b6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de9a332f94b6bab8750f40764571bc0b4c88bf6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventDatabase_DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventDatabase_DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
